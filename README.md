@@ -2,8 +2,6 @@
 
 A personal AI agent that finds relevant job listings every day, scores them against your resume, and sends the best matches to your Telegram — so you can apply at your own pace.
 
-Built entirely through conversation with Claude, no prior API experience needed.
-
 ---
 
 ## What it does
