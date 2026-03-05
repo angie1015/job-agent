@@ -1,0 +1,7 @@
+anthropic
+pdfplumber
+python-telegram-bot==20.7
+gspread
+google-auth
+requests
+python-dotenv

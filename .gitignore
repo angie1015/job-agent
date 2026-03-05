@@ -1,0 +1,8 @@
+.env
+google_credentials.json
+venv/
+screenshots/
+logs/
+__pycache__/
+*.pyc
+resume.pdf
